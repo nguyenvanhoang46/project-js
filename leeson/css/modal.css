@@ -1,0 +1,45 @@
+
+.modal-container {
+    width: 25%;
+    background-color: #fff;
+    margin-left: 1139px;
+    height: 100%;
+    padding: 16px 30px 10px;
+}
+.modal.open {
+    display: block;
+}
+.modal-body {
+    text-align: center;
+}
+.modal-close {
+    padding-top: 30px;
+    display: flex;
+    letter-spacing: 0;
+    font-weight: 700;
+    border-bottom: 0;
+    justify-content: space-between;
+}
+.bag {
+    cursor: pointer;
+}
+.modal-close-bag {
+   font-size: 17px;
+}
+.modal-icon {
+    cursor: pointer;
+    background-color: #7f7f7f;
+    color: #fff;
+    border-radius: 4px;
+    width: 30px;
+    height: 30px;
+    padding: 6px;
+}
+.modal-icon i {
+    position: absolute;
+    top: 54px;
+    right: 40px;
+}
+.cart_empty {
+    text-align: center;
+}

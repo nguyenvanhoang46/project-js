@@ -1,0 +1,83 @@
+.product-tab {
+    border-bottom: 1px solid #e5e5e5;
+    margin-bottom: 40px;
+    width: 88%;
+}
+.tab-list {
+    font-weight: 500;
+    font-size: 20px;
+    display: inline-block;
+    position: relative;
+    z-index: 98;
+    cursor: pointer;
+    color: #2d2d2d;
+    font-size: 18px;
+    font-family: 'Nunito';
+    padding: 17px 0 13px;
+    margin-right: 54px;
+    margin-left:-7.5px;
+	border-bottom:1px solid #e5e5e5;
+	border-left:7px solid transparent;
+	border-right:7px solid transparent;
+}
+.tabl_product {
+    display: none;
+}
+.tabl_product.active {
+    display: block;
+}
+.line {
+    position: absolute;
+    left: 0;
+    top: 54px;
+    bottom: 0;
+    top: 1332px;
+    width: 0;
+    height: 6px;
+    border-radius: 15px;
+    background-color: #cfc6c9;
+    transition: all 0.2s ease;
+}
+.line:before {
+	content:'';
+	position:absolute;
+	bottom:6px;
+	left:50%;
+	margin-left:-7.5px;
+	border-bottom:7px solid #f28b00;
+	border-left:7px solid transparent;
+	border-right:7px solid transparent;
+	opacity:0;
+	z-index:99;
+}
+.line:before {
+	opacity:1;
+}
+.imagebox_tabl {
+    margin-left: 176px !important;
+}
+.product-tab div.tab-list {
+	display:inline-block;
+	position:relative;
+	z-index:98;
+	cursor:pointer;
+	color:#919191;
+	font-size:18px;
+	font-family:'Nunito';
+	font-weight:300;    
+	padding:17px 0 13px;
+	margin-right:54px;
+}
+.product-tab div.tab-list {
+	color:#2d2d2d;
+	font-weight:500;
+	font-size:20px;
+}
+.product-tab div.tab-list:hover:before,
+.product-tab div.tab-list:before {
+	opacity:1;
+}
+.tab-content {
+    width: 110% !important;
+}
+

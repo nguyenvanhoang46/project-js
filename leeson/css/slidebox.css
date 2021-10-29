@@ -1,0 +1,99 @@
+.imagebox-item-box-tow {
+    padding: 29px 16px 20px;
+    text-align: left;
+    border: 2px solid #e5e5e5;
+    border-radius: 8px;
+    min-height: auto;
+}
+.flat-row-title {
+    position: relative;
+    left: 7%;
+}
+.flat-row-title-item-box {
+    left: 7% !important;
+}
+.owl-carousel-3-item-box {
+    position: relative;
+    left: 86px;
+    width: 85%;
+    overflow: hidden;
+}
+.imagebox-item-box-tow.style4 .box-image {
+    height: 110px;
+    line-height: 108px;
+    text-align: center;
+    margin-bottom: 4px;
+}
+.product-name-item_box a {
+    text-decoration: none !important;
+    color: #484848;
+    font-size: 14px;
+    line-height: 22px;
+}
+.cat-name-item-box a{
+    text-decoration: none !important;
+    font-size: 12px;
+    margin-left: 2px;
+    color: #919191;
+}
+.sale-item-box {
+    color: #f28b00;
+    font-weight: 500;
+    font-size: 18px;
+    font-family: 'Nunito';
+    margin-right: 10px;
+}
+.regular-item-box {
+    color: #c5c5c5;
+    font-size: 14px;
+    text-decoration: line-through;
+}
+.imagebox-item-box-tow .style4::-webkit-scrollbar {
+    display: none;
+}
+.owl-carousel-item-box .imagebox-item-box-tow {
+    min-width: 18%;
+    padding: 29px 16px 20px;
+    text-align: left;
+    border: 2px solid #e5e5e5;
+    border-radius: 8px;
+    min-height: auto;
+    margin-right: 27px;
+    position: relative;
+}
+.next-prev {
+    font-size: 33px;
+    margin: 0 5px;
+    cursor: pointer;
+    color: #555;
+    width: 30px;
+    height: 30px;
+    display: inline-block;
+    line-height: 19px;
+    text-align: center;
+    border-radius: 3px;
+}
+.next-prev:hover {
+    background: #222;
+    color: white;
+}
+#next-btn {
+    position: relative;
+    top: -50%;
+    left: 67px;
+    border: 2px solid #e5e5e5;
+    border-radius: 20px;
+    width: 40px;
+    height: 40px;
+    background-color: #fff;
+}
+#prev-btn {
+    position: relative;
+    right: -1121px;
+    top: -48%;
+    border: 2px solid #e5e5e5;
+    border-radius: 20px;
+    width: 40px;
+    height: 40px;
+    background-color: #fff;
+}

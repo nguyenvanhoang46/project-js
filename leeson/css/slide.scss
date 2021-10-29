@@ -1,0 +1,85 @@
+.wrapper-slides {
+    overflow: hidden;
+    width: 1200px;
+    margin: 0 auto;
+    border: 2px solid #333;
+    border-top-left-radius: 9px;
+    border-top-right-radius: 9px;
+    border-bottom-left-radius: 9px;
+    border-bottom-right-radius: 9px;
+    .slides {
+        min-height: 588px;
+        width: 400%;
+        .slide {
+            width: 1200px;
+            .caption {
+                div.caption {
+                    h1 {
+                        font-family: 'Nunito';
+                        font-size: 70px;
+                        font-weight: 500;
+                        color: #f28b00;
+                        margin-bottom: 15px;
+                    }
+                }   
+                div.caption > h1 > span {
+                    font-size: 70px;
+                    color: #333  
+                }
+                div.caption_tow > span {
+                    position: relative;
+                    color: #fff;
+                    font-size: 35px;
+                    font-weight: 400;
+                    background-color: #484848;
+                    line-height: 58px;
+                    display: inline-block;
+                    padding: 0px 40px 0 63px;
+                    height: 56px;
+                    border-top-right-radius: 30px;
+                    border-bottom-right-radius: 30px;
+                    margin-right: 21px;
+                }  
+                div.caption_tow > span.caption_link {
+                    line-height: 46px;
+                    margin-top: 4px;
+                    border: 1px solid #e5e5e5;
+                    border-radius: 30px;
+                    display: inline-block;
+                    padding: 0 35px 0 38px;
+                    font-size: 14px;
+                    font-weight: bold;
+                    background-color: #fff;
+                    color: #2d2d2d;
+                    position: relative;
+                    height: 46px;
+                    overflow: hidden;
+                    z-index: 5;
+                }  
+                .price-sale {
+                    font-size: 25px;
+                    color: #b6b6b6;
+                }
+            }
+            
+            
+            
+           
+        }
+    }
+    #prev {
+        // position: absolute;
+        // top: 50px;
+        // z-index: 10;
+        // left: 5%;
+        // font-size: 30px;
+        // color: white;
+        // opacity: 0.5;
+        // cursor: pointer;
+    }
+}
+
+
+
+
+

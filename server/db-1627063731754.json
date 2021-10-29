@@ -1,0 +1,44 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "img": "//cdn.shopify.com/s/files/1/0064/4435/1539/products/product-laptop-1_8ba38545-e982-4cc5-a601-9f7adb782d6f.jpg?v=1616831599",
+      "name": "Apple iPad Mini",
+      "tag": "greytshirt",
+      "price": "1,250,00",
+      "sale": "2,999,00"
+    },
+    {
+      "id": 2,
+      "img": "//cdn.shopify.com/s/files/1/0064/4435/1539/products/product-laptop-4.jpg?v=1616831009",
+      "name": "'Beats Solo'",
+      "tag": "greytshirt",
+      "price": "1,250,00",
+      "sale": "2,999,00"
+    },
+    {
+      "id": 3,
+      "img": "//cdn.shopify.com/s/files/1/0064/4435/1539/products/product-laptop-2_31898603-4ce2-4ce5-9aa4-e75f9dbbbcfb.jpg?v=1616831234",
+      "name": "Apple iPad Mini",
+      "tag": "greytshirt",
+      "price": "1,250,00",
+      "sale": "2,999,00"
+    },
+    {
+      "id": 4,
+      "img": "//cdn.shopify.com/s/files/1/0064/4435/1539/products/product-tivi-2_ab09de17-367b-42b5-8ead-686d0a82c805.jpg?v=1616829124",
+      "name": "Apple iPad Mini",
+      "tag": "greytshirt",
+      "price": "1,250,00",
+      "sale": "2,999,00"
+    },
+    {
+      "name": "gggg",
+      "tag": "laptop",
+      "price": "499",
+      "sale": "399",
+      "img": "https://cdn.tgdd.vn/Products/Images/44/237636/acer-nitro-5-an515-45-r3sm-r5-nhqbmsv005-600x600.jpg",
+      "id": 5
+    }
+  ]
+}
